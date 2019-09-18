@@ -1,7 +1,7 @@
 +++
 title = "Make illegal states unrepresentable"
 date = 2019-07-05T12:00:00Z
-# template = "micro.html"
+tags = ["micropost"]
 +++
 
 Make illegal states unrepresentable.

@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://[::1]:1111/sitemap.xml

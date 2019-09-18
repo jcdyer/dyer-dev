@@ -1,6 +1,7 @@
 +++
 title = "Isolate I/O"
 date = 2019-07-06T12:00:00Z
+tags = ["micropost"]
 # template = "micro.html"
 +++
 
